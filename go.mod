@@ -1,4 +1,4 @@
-module go-helper
+module github.com/spidey52/go-helper
 
 go 1.22.3
 
